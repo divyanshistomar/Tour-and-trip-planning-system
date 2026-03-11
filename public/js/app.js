@@ -1,8 +1,4 @@
-// ============================================================
-//  INDIA TRIP PLANNER - app.js  (Front-end JavaScript)
-//  Handles: Navigation, Tour Cards, Modal, API calls,
-//  Quick Booking form on Home page, Scroll animations
-// ============================================================
+
 
 // ----- NAVIGATION -----
 function toggleMenu() {
